@@ -1,0 +1,8 @@
+Install checked: 2023-01-12T16:35:18-05:00
+
+SYSTEM:	Linux LAPTOP-89SFERUI 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.39.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.1 (2018 May 18, compiled Sep 19 2022 04:59:57)
+CURL:	[/usr/bin/curl] curl 7.68.0 (x86_64-pc-linux-gnu) libcurl/7.68.0 OpenSSL/1.1.1f zlib/1.2.11 brotli/1.0.7 libidn2/2.2.0 libpsl/0.21.0 (+libidn2/2.2.0) libssh/0.9.3/openssl/zlib nghttp2/1.40.0 librtmp/2.3
+NODE:	[/home/zhangwy/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
